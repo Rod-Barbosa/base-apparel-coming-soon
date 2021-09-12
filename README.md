@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Rod-Barbosa/base-apparel-coming-soon](https://your-solution-url.com)
+- Solution URL: [Portfolio](https://gelatodigital.com/#portfolio)
 - Live Site URL: [https://rodrigo-base-apparel-coming-soon.netlify.app/?mail=](https://rodrigo-base-apparel-coming-soon.netlify.app/?mail=)
 
 ## My process
